@@ -4,7 +4,7 @@ import pickle
 from random import choice
 
 
-bot = telebot.TeleBot("7787742894:AAHoGwxXqBSST47XS6hwpaEYE_JKfOluK-M")
+bot = telebot.TeleBot("token")
 
 # Загрузка модели и векторизатора
 with open('model/intent_model.pkl', 'rb') as f:
