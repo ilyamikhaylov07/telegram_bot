@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Обои 'Нежный Лён'",
+      "desc": "Подходят для спальни и гостиной. Светлые тона.",
+      "price": "950₽",
+      "image_url": "https://s3.stroi-news.ru/img/oboi-s-domami-dlya-sten-dizain-vkontakte-33.jpg"
+    },
+    {
+      "name": "Обои 'Городская классика'",
+      "desc": "Современный стиль для офиса и кабинета.",
+      "price": "1100₽",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIH9fdrIQXd2pYtDH9xqHq_tq92XZxO_f_LQ&s" 
+    },
+    {
+      "name": "Обои 'Лесной узор'",
+      "desc": "Природный стиль с зелеными оттенками.",
+      "price": "890₽",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMYMeH5wUbm70vBKk04iNrBS16_VbgRAbYQ&s"
+    }
+]
+  
