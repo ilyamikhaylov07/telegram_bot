@@ -16,6 +16,62 @@
       "desc": "Природный стиль с зелеными оттенками.",
       "price": "890₽",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMYMeH5wUbm70vBKk04iNrBS16_VbgRAbYQ&s"
-    }
+    },
+    {
+    "name": "Синие волны",
+    "desc": "Обои с мягким волнообразным узором в синих тонах. Отлично подойдут для спальни.",
+    "price": "790₽",
+    "color": "синий",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3dX2yBYJWQ5xWkak0DA9qq9c4C5PiFI_TEw&s"
+  },
+  {
+    "name": "Зелёный лес",
+    "desc": "Успокаивающий узор с зелёными оттенками природы для гостиной.",
+    "price": "850₽",
+    "color": "зелёный",
+    "image_url": "https://images.wallpaperscraft.ru/image/single/listia_zelenyj_temnyj_145996_300x188.jpg"
+  },
+  {
+    "name": "Красный бархат",
+    "desc": "Глубокий красный цвет с мягкой текстурой бархата. Роскошно смотрится в зале.",
+    "price": "920₽",
+    "color": "красный",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGIozqbjpydYUBJBraXbC6aV-RRI9Qy2z2A&s"
+  },
+  {
+    "name": "Жёлтое солнце",
+    "desc": "Яркий желтый цвет и солнечный узор поднимет настроение в кухне.",
+    "price": "730₽",
+    "color": "жёлтый",
+    "image_url": "https://i.archi.ru/i/374193.jpg"
+  },
+  {
+    "name": "Синий уют",
+    "desc": "Нейтральные синие оттенки с лёгким узором подойдут к любому интерьеру.",
+    "price": "780₽",
+    "color": "синий",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgIZZ6yM6IMXkQerxXKlV6pQdKVC9ppjKXAQ&s"
+  },
+  {
+    "name": "Зеленые линии",
+    "desc": "Современные обои с геометрическим узором в серых тонах. Отлично смотрятся в офисе.",
+    "price": "810₽",
+    "color": "зеленый",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKYGSzTvpdWbJvCpEZWkZk2KYdVUSUWfH6A&s"
+  },
+  {
+    "name": "Красное золото",
+    "desc": "Обои с роскошным черно-золотым узором для акцентной стены.",
+    "price": "990₽",
+    "color": "красный",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVPv7M_PWGxtMtjdBnG1sl2yeOAHkM2LaRg&s"
+  },
+  {
+    "name": "Желтая ночь",
+    "desc": "Темные обои с плавными фиолетовыми переливами создают атмосферу уюта.",
+    "price": "870₽",
+    "color": "желтый",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzoS5Q_jwNmpuUWMmydhJIPV-44rjr4qDh6w&s"
+  }
 ]
   

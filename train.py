@@ -3,6 +3,7 @@ import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
+
 with open('data/intents.json', 'r', encoding='utf-8') as f:
     intents = json.load(f)
 
@@ -25,3 +26,4 @@ with open('model/vectorizer.pkl', 'wb') as f:
     pickle.dump(vectorizer, f)
 
 print("✅ Модель обучена и сохранена.")
+
