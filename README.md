@@ -30,9 +30,6 @@ telegram_bot/
 │ └── vectorizer.pkl # TF-IDF векторизатор
 └── README.md # Описание проекта
 
-yaml
-Копировать
-Редактировать
 
 ---
 
